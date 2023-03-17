@@ -1,0 +1,5 @@
+graph LR;
+    A(Seawater)-->B(High-pressure pump);
+    B-->C(RO membrane);
+    C-->D(Freshwater);
+    C-->E(Concentrated brine);
